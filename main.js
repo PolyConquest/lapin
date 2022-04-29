@@ -4,6 +4,3 @@
 // -------------------------------
 
 console.log("suite 0")
-console.log("suite 1")
-console.log("suite 1")
-console.log("suite 2")
